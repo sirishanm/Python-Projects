@@ -14,6 +14,9 @@ Project 3 : IPL Data analysis
 Skills and Tools Each project in this repository utilizes a range of data science and analysis tools, including:
 
 Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn 
+
 Plotly Data Cleaning: Handling missing data, dealing with outliers, and standardizing data formats
+
 Data Visualization: Building visualizations to effectively communicate insights
+
 Statistical Analysis: Performing statistical tests and interpreting results
