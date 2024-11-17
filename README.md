@@ -1,11 +1,11 @@
 ### Python-Projects
 Welcome to my Data Analysis Projects repository! This collection showcases various data analysis projects, each designed to explore, analyze, and visualize data using Python’s powerful data science libraries.
 
-Projects Overview This repository is dedicated to demonstrating my data analysis skills and my ability to uncover insights from data.
+Project Overview: This repository highlights my data analysis skills and showcases my ability to extract meaningful insights from data.
 
 Project list :
 
-Project 1: Employee Salary Data analysis:
+Project 1 : Employee Salary Data analysis:
 
 Project 2 : Image conversion
 
