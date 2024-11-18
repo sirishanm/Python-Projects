@@ -5,11 +5,11 @@ Project Overview: This repository highlights my data analysis skills and showcas
 
 Project list :
 
-Project 1 : Employee Salary Data analysis:
+Project 1 : Image Conversion
 
-Project 2 : Image conversion
+Project 2 : IPL Data Analysis
 
-Project 3 : IPL Data analysis
+Project 3 : Employee Salary Data analysis
 
 Skills and Tools Each project in this repository utilizes a range of data science and analysis tools, including:
 
