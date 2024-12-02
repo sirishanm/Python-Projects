@@ -22,3 +22,5 @@ Plotly Data Cleaning: Handling missing data, dealing with outliers and standardi
 Data Visualization: Building visualizations to effectively communicate insights
 
 Statistical Analysis: Performing statistical tests and interpreting results
+
+**Real time object color detection using OpenCV** - Used OpenCV, NumPy, Python syntax, image processing, color spaces (HSV), thresholding, masking, contours, and real-time video capture techniques.
